@@ -1,0 +1,1 @@
+[{"name": "accountSID", "description": "Your account SID from twilio", "validation": "30"}, {"name": "authToken", "description": "your authToken from twilio", "validation": "30"}, {"name": "twilioNumber", "description": "Your number from twilio", "validation": "+"}]
